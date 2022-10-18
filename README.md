@@ -15,3 +15,7 @@ are unlocked. The project allows to perform following operations:
 4.Transfer
 
 5.Quit
+
+
+https://user-images.githubusercontent.com/106643865/196519502-e1c3b67e-d166-496a-b5e1-ce25bd225c59.mp4
+
